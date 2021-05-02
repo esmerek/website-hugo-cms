@@ -1,10 +1,9 @@
 ---
-title: Digital Transformation
-subtitle: Epic Fusion is the magic that happens when an organization and our
-  collective connect.
+title: MINDSET IS EVERYTHING
+subtitle: We do Digital Transformation. Fast Forward.
 image: img/8k-background-epicfusion.png
 blurb:
-  heading: Why Epic Fusion?
+  heading: Why?
   text: >-
     Sometimes you just need someone you trust to get the job done. 
 
@@ -18,11 +17,9 @@ intro:
     knowledge to anyone.
 products:
   - image: img/illustrations-coffee.svg
-    text: We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
+    text: The foundation for a successful shift to continuous transformation is the
+      integration of people, culture and technology. This is how we create an
+      outstanding user experience.
   - image: /img/illustrations-coffee-gear.svg
     text: We offer a small, but carefully curated selection of brewing gear and
       tools for every taste and experience level. No matter if you roast your
